@@ -4,4 +4,6 @@ seaborn
 scikit-learn
 dash
 xgboost
--e .
+catboost
+dash
+ #-e .
